@@ -1,0 +1,11 @@
+{
+    "name": "Chrome extension",
+    "version": "1.0.0",
+    "description": "It contains record of all the matches",
+    "manifest_version": 3,
+    "author": "Siddhant",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IPL Extension"
+    }
+}
